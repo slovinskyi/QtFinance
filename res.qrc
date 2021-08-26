@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons8-below-64.png</file>
+        <file>icons8-decline-64.png</file>
+        <file>icons8-hamburger-80.png</file>
+        <file>icons8-increase-64.png</file>
+        <file>icons8-upward-arrow-64.png</file>
+        <file>icons8-airplane-landing-80.png</file>
+        <file>icons8-darth-vader-80.png</file>
+        <file>icons8-heart-with-pulse-80.png</file>
+        <file>icons8-perfume-bottle-80.png</file>
+        <file>icons8-t-shirt-80.png</file>
+        <file>icons8-barbershop-80.png</file>
+        <file>icons8-folder-80.png</file>
+        <file>icons8-investment-80.png</file>
+        <file>food.jpg</file>
+        <file>food.png</file>
+        <file>icons-t-shirt-80.png</file>
+        <file>icons-darth-vader-80.png</file>
+        <file>icons-hamburger-80.png</file>
+        <file>icons-heart-with-pulse-80.png</file>
+        <file>icons-perfume-bottle-80.png</file>
+        <file>icons-airplane-80.png</file>
+        <file>icons-coins-80.png</file>
+        <file>icons-decrease-80.png</file>
+        <file>icons-folder-80.png</file>
+        <file>icons-increase-80.png</file>
+        <file>icons-barbershop-80.png</file>
+        <file>iconsf-decrease-96.png</file>
+        <file>iconsf-increase-96.png</file>
+        <file>icons8-eights-160.png</file>
+        <file>icons8-food-and-wine-96.png</file>
+        <file>icons8-money-box-96.png</file>
+        <file>spozywcze.txt</file>
+        <file>cafe.txt</file>
+        <file>clothes.txt</file>
+        <file>drugstore.txt</file>
+        <file>rest.txt</file>
+        <file>icons8-stormtrooper-80.png</file>
+        <file>icons8-futures-80.png</file>
+        <file>icons8-tube-80.png</file>
+        <file>bills.txt</file>
+        <file>pubs.txt</file>
+        <file>food.txt</file>
+    </qresource>
+</RCC>
