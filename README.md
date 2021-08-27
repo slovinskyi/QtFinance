@@ -22,12 +22,12 @@ Home budget application (C++ &amp; Qt Framework)
  
  ```$ qmake QtFinance-main.pro``` 
  
-   This will create a file by the name of “Makefile” in the project directory. You can verify this by running the ls command, just as I did.
-7. The following make command will help you in compiling the Makefile into an executable program. 
+   This will create a file by the name of “Makefile” in the project directory. You can verify this by running the ls command,    just as I did.
+6. The following make command will help you in compiling the Makefile into an executable program. 
 
 ```$ make```
 
-9. Finally, we are ready to run the executable file we created in the last step through the Terminal. Run the following command to do so: 
+7. Finally, we are ready to run the executable file we created in the last step through the Terminal. Run the following command to do so: 
  
 ```$ ./QtFinance-main```
 
