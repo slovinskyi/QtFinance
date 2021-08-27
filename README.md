@@ -1,2 +1,2 @@
 # QtFinance
-Home budget app (C++ &amp; Qt Framework)
+Home budget application (C++ &amp; Qt Framework)
