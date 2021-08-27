@@ -34,6 +34,6 @@ Home budget application (C++ &amp; Qt Framework)
 
 # Application interface
 After program running, the following window will be displayed:
-![Image of main window](https://github.com/QtCreator/images/mainwindow.png)
+![Image of main window](https://github.com/slovinskyi/QtFinance/blob/main/images/mainwindow.png)
 
 
