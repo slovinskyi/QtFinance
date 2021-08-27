@@ -20,5 +20,5 @@ Home budget application (C++ &amp; Qt Framework)
 7. Finally, we are ready to run the executable file we created in the last step through the Terminal. Run the following command to do so: ```$ ./QtFinance-main```
 
 # Application interface
-Main window:
+After program running, the following window will be displayed:
 
