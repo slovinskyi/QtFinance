@@ -36,4 +36,32 @@ Home budget application (C++ &amp; Qt Framework)
 After program running, the following window will be displayed:
 ![Image of main window](https://github.com/slovinskyi/QtFinance/blob/main/images/mainwindow.png)
 
+If we want to add expenditure we should choose one of the following category:
+1. Food (Artukuły spożywcze);
+2. Drugstore (Drogeria);
+3. Fashion (Moda);
+4. Bills (Rachunki);
+5. Restaurants (Restauracje);
+6. Entertainments (Rozrywka);
+7. Transport;
+8. Barber Shop & Beauty Shop;
+9. Health (Zdrowie);
+10. Non-categories (Bez kategorii);
+
+If we choose Food category we will see the following dialog window:
+![Image of food 01](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_01.png)
+
+If we want to add some expenditure please press 'Add':
+![Image of food 02](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_02.png)
+
+After adding all of food expenditure we will see the following summarizing table:
+![Image of food 03](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_03.png)
+
+If we press 'Sum' we will see total food expenditure:
+![Image of food 04](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_04.png)
+
+If we want to generate pdf report we should press 'PDF':
+![Image of pdf](https://github.com/slovinskyi/QtFinance/blob/main/images/food_report.png)
+
+
 
