@@ -84,7 +84,6 @@ This bar chart we can save as PDF file (with some commentary). For this you shou
 Po uruchomieniu programu wyświetli się następujące okno (jest główne okno aplikacji)
 ![Image of main window](https://github.com/slovinskyi/QtFinance/blob/main/images/mainwindow.png)
 
-If we want to add expenditure we should choose one of the following category:
 Jeśli chcemy dodać sumy wydatków należy wybrać jedną z poniższych kategorii wydatków:
 1. Artukuły spożywcze;
 2. Drogeria;
@@ -97,41 +96,37 @@ Jeśli chcemy dodać sumy wydatków należy wybrać jedną z poniższych kategor
 9. Zdrowie;
 10. Bez kategorii;
 
-If we choose Food category we will see the following dialog window:
 Jeśli wybierzemy kategorię 'Artykuły spożywcze' wyświetli się następujące okienko:
 ![Image of food 01](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_01.png)
 
-If we want to add some expenditure please press 'Add':
 Aby dodać pewien rodzaj wydatku należy wcisnąć 'Add'
 ![Image of food 02](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_02.png)
 
-After adding all of food expenditure we will see the following summarizing table:
 Po dodaniu wszystkich wydatków na jedzenie zobaczymy następną podsumowującą tabelę:
 ![Image of food 03](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_03.png)
 
-If we press 'Sum' we will see total food expenditure:
 W kolejnym kroku należy zaznaczyć wydane kwoty a następnie wcisnąć 'Sum'. W rezultacie w wierszu 'Total' zobaczymy całkowitą wartość wydatków na jedzenie. 
 Przykładową tabelę reprezentuje poniższy rysunek:
 ![Image of food 04](https://github.com/slovinskyi/QtFinance/blob/main/images/food_dialog_04.png)
 
-If we want to generate pdf report we should press 'PDF':
 Jeśli chcemy dostać PDF-kopię tabeli wciskamy 'PDF':
 ![Image of pdf](https://github.com/slovinskyi/QtFinance/blob/main/images/food_report.png)
 
-We can add other types of expenditures in a similar way. If we want to add income we should press 'Dochód'. Example is presented by following screenshot:
+Podobnie postępujemy w przypadku innych kategorii. Jeśli chcemy dodać dochód należy kliknąć 'Dochód' oraz wpisać potrzebną kwotę. Poniższy zrzut ekranu reprezentuje 
+wyżej opisane działanie:
 
 ![Image of income](https://github.com/slovinskyi/QtFinance/blob/main/images/income.png)
 
-If we want to see total analysis of our budget we should press 'Analiza finansowa'. Example analysis is presented by following screenshot:
+W przypadku gdy chcemy wyświetlić wynik analizy globalnej należy wcisnąć 'Analiza finansowa'. Przykład reprezentuje poniższy rysunek:
 ![Image of analysis](https://github.com/slovinskyi/QtFinance/blob/main/images/analysis.png)
 
-If we want to generate PDF report we should press 'PDF':
+Jeśli chcemy wygenerować PDF-kopię należy wcisnąć 'PDF':
 ![Image of analysis PDF](https://github.com/slovinskyi/QtFinance/blob/main/images/analysis_PDF.png)
 
-Our application lets generate bar chart of our budget. For this you should press 'MAKE':
+Aplikacja pozwala na wygenerowanie diagramu słupkowego. W tym celu należy wcisnąć 'MAKE':
 ![Image of chart](https://github.com/slovinskyi/QtFinance/blob/main/images/chart.png)
 
-This bar chart we can save as PDF file (with some commentary). For this you should press 'Insert':
+Uzyskany na podstawie analizy globalnej wykres słupkowy możemy zapisać do pliku PDF wraz z komentarzem.
 ![Image of chart PDF](https://github.com/slovinskyi/QtFinance/blob/main/images/raport_export.png)
 ![Image of chart report PDF](https://github.com/slovinskyi/QtFinance/blob/main/images/chart_PDF.png)
 
