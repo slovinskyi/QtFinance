@@ -63,7 +63,8 @@ If we press 'Sum' we will see total food expenditure:
 If we want to generate pdf report we should press 'PDF':
 ![Image of pdf](https://github.com/slovinskyi/QtFinance/blob/main/images/food_report.png)
 
-You can add another
+We can add other types of expenditures in a similar way. If we want to add income we should press 'Dochód'. Example is presented by following screenshot:
+![Image of income](https://github.com/slovinskyi/QtFinance/blob/main/images/income.png)
 
 
 
