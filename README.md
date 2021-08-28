@@ -63,5 +63,7 @@ If we press 'Sum' we will see total food expenditure:
 If we want to generate pdf report we should press 'PDF':
 ![Image of pdf](https://github.com/slovinskyi/QtFinance/blob/main/images/food_report.png)
 
+You can add another
+
 
 
